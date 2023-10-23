@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "text": "Clean room",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "text": "Go to the Gym",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
